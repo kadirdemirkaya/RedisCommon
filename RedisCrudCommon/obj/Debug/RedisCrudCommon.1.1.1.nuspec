@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RedisCrudCommon</id>
+    <version>1.1.1</version>
+    <authors>RedisCrudCommon</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="DatabaseCrudCommon" version="1.4.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Caching.StackExchangeRedis" version="7.0.9" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\RedisCrudCommon\bin\Debug\net7.0\RedisCrudCommon.dll" target="lib\net7.0\RedisCrudCommon.dll" />
+  </files>
+</package>

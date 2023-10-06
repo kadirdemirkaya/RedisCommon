@@ -1,0 +1,24 @@
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\RedisCrudCommon\bin\Debug\net7.0\RedisCrudCommon.deps.json
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\RedisCrudCommon\bin\Debug\net7.0\RedisCrudCommon.dll
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\RedisCrudCommon\bin\Debug\net7.0\RedisCrudCommon.pdb
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\RedisCrudCommon\obj\Debug\net7.0\RedisCrudCommon.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\RedisCrudCommon\obj\Debug\net7.0\RedisCrudCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\RedisCrudCommon\obj\Debug\net7.0\RedisCrudCommon.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\RedisCrudCommon\obj\Debug\net7.0\RedisCrudCommon.AssemblyInfo.cs
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\RedisCrudCommon\obj\Debug\net7.0\RedisCrudCommon.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\RedisCrudCommon\obj\Debug\net7.0\RedisCrudCommon.dll
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\RedisCrudCommon\obj\Debug\net7.0\refint\RedisCrudCommon.dll
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\RedisCrudCommon\obj\Debug\net7.0\RedisCrudCommon.pdb
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\RedisCrudCommon\obj\Debug\net7.0\ref\RedisCrudCommon.dll
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\Class Library\RedisCrudCommon\bin\Debug\net7.0\RedisCrudCommon.deps.json
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\Class Library\RedisCrudCommon\bin\Debug\net7.0\RedisCrudCommon.dll
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\Class Library\RedisCrudCommon\bin\Debug\net7.0\RedisCrudCommon.pdb
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\Class Library\RedisCrudCommon\obj\Debug\net7.0\RedisCrudCommon.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\Class Library\RedisCrudCommon\obj\Debug\net7.0\RedisCrudCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\Class Library\RedisCrudCommon\obj\Debug\net7.0\RedisCrudCommon.AssemblyInfoInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\Class Library\RedisCrudCommon\obj\Debug\net7.0\RedisCrudCommon.AssemblyInfo.cs
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\Class Library\RedisCrudCommon\obj\Debug\net7.0\RedisCrudCommon.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\Class Library\RedisCrudCommon\obj\Debug\net7.0\RedisCrudCommon.dll
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\Class Library\RedisCrudCommon\obj\Debug\net7.0\refint\RedisCrudCommon.dll
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\Class Library\RedisCrudCommon\obj\Debug\net7.0\RedisCrudCommon.pdb
+C:\Users\Casper\Desktop\GitHub Projects\FlavorWorldMicProject\Class Library\RedisCrudCommon\obj\Debug\net7.0\ref\RedisCrudCommon.dll
